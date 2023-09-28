@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddfa27ee.chunk.css",
+    "main.js": "/static/js/main.35dac037.chunk.js",
+    "main.js.map": "/static/js/main.35dac037.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7279061c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7279061c.js.map",
+    "static/js/2.f5220fa7.chunk.js": "/static/js/2.f5220fa7.chunk.js",
+    "static/js/2.f5220fa7.chunk.js.map": "/static/js/2.f5220fa7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ddfa27ee.chunk.css.map": "/static/css/main.ddfa27ee.chunk.css.map",
+    "static/js/2.f5220fa7.chunk.js.LICENSE.txt": "/static/js/2.f5220fa7.chunk.js.LICENSE.txt",
+    "static/media/blog-image.029f1672.PNG": "/static/media/blog-image.029f1672.PNG",
+    "static/media/contact-keeper.fdaebf24.PNG": "/static/media/contact-keeper.fdaebf24.PNG",
+    "static/media/cpmc-website.860a67ad.PNG": "/static/media/cpmc-website.860a67ad.PNG",
+    "static/media/ecommerce-site.5eaf2436.png": "/static/media/ecommerce-site.5eaf2436.png",
+    "static/media/netflix.ac40b490.png": "/static/media/netflix.ac40b490.png",
+    "static/media/socketio.177c9885.png": "/static/media/socketio.177c9885.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7279061c.js",
+    "static/js/2.f5220fa7.chunk.js",
+    "static/css/main.ddfa27ee.chunk.css",
+    "static/js/main.35dac037.chunk.js"
+  ]
+}

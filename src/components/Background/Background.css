@@ -1,0 +1,13 @@
+.animation-section {
+	width: 300px;
+	height: 300px;
+	background: linear-gradient(55deg, rgb(0, 0, 0) 20%, rgb(255, 0, 0) 80%,55deg, rgb(0, 0, 0) 30%, rgb(157, 19, 19) 60%);
+	margin: auto;
+}
+
+@media screen and (min-width: 640px) {
+	.animation-section {
+		width: 520px;
+		height: 520px;
+	}
+}
